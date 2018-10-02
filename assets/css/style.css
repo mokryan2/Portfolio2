@@ -76,7 +76,7 @@ ul li .header{
 
 ul li .content{
     position: absolute;
-    bottom: -100%;
+    bottom:-100%;
     left: 0;
     width: 100%;
     background: rgba(0,0,0,.8);
@@ -93,8 +93,8 @@ ul li:hover .content{
 }
 
 .icons{
-    height:17%;
-    width:17%;
+    height:14.25%;
+    width:14.25%;
     border: 2px white solid;
     background: #fff;
     margin: 1%;
